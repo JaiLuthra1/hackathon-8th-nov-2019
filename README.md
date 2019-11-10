@@ -8,4 +8,6 @@ Jai Luthra<br>
 How to run it?
 
 in your terminal window open the same directory as in whioch it is saved and then type the following code:-
-"""bash runit.sh"""
+```bash
+bash runit.sh
+```
