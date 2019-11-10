@@ -1,0 +1,26 @@
+1. Python >=3.6
+sudo apt-get install python3.6
+2. Speech Recognition >= 3.8.1
+pip3 install SpeechRecognition
+3. Pyaudio >= 0.2.11
+pip3 install pyaudio
+4. Google text-to-speech >= 2.0.4
+pip3 install gTTS
+5. Open-cv >= 4.1.1.26
+pip3 install opencv-contrib-python
+6. Dlib >= 19.18.0
+pip3 install dlib
+7. Os
+pip3 install os
+8. Numpy >= 1.17.3
+pip3 install numpy
+9. Time
+pip3 install time
+10. Pygame >= 1.9.6
+pip3 install pygame
+11. Random
+pip3 install random
+12. Playsound >= 1.2.2
+pip3 install playsound
+13. Keras
+pip3 install keras
